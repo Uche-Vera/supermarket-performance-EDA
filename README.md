@@ -66,8 +66,7 @@ With clean data in hand, the focus shifted to establishing the financial and beh
 
 <img width="900" height="500" alt="observation_1_skewness" src="https://github.com/user-attachments/assets/d1d41e75-6c53-4aeb-8c67-670f31c1d69c" />
 
-<img width="900" height="500" alt="image" src="https://github.com/user-attachments/assets/73565dc6-f1ce-460f-9d11-2baece9fc66b" />
-
+<img width="900" height="500" alt="observation_1_skewness_violet" src="https://github.com/user-attachments/assets/73565dc6-f1ce-460f-9d11-2baece9fc66b" />
 
 
 The mean ($322.26) sits noticeably above the median ($253.39) — a gap of $68.87. This is the classic fingerprint of a **right-skewed distribution**: a small number of exceptionally large purchases pulling the mean upward while most transactions cluster at lower values. With a standard deviation of $245.65, transaction values are highly dispersed.
