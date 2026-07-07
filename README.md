@@ -110,6 +110,8 @@ Giza leads by a slim but consistent margin.
 
 <img width="900" height="500" alt="pie_payment_type" src="https://github.com/user-attachments/assets/b0d06e8f-d836-4698-bcc3-142674815efa" />
 
+<img width="952" height="614" alt="image" src="https://github.com/user-attachments/assets/cd68b92a-e828-4889-bf45-f561a4fb5ae6" />
+
 
 Customer payment preferences were nearly evenly split:
 
