@@ -6,7 +6,7 @@
 
 ## 📌 Strategic Overview
 
-This capstone project simulates the role of a **Lead Data Analyst** for a global supermarket chain operating across three Egyptian branches — **Alexandria, Cairo, and Giza**. Given a raw, messy extract of **~1,000 transactions** from Q1 2019, the objective was to transform noisy data into actionable business intelligence — within a single analytical workflow.
+Worked as the **Lead Data Analyst** for a global supermarket chain to optimize operations across three major Egyptian branches **(Alexandria, Cairo, and Giza)** . Built a unified analytical workflow that transformed a chaotic, raw extract of **~1,000 transactions** for Quarter 1 of the year 2019 into structured, actionable business intelligence.
 
 The project spans five analytical stages: data cleaning, descriptive statistics, visual dashboarding, probability modeling, and hypothesis formulation. Every figure computed has a business question behind it; every chart answers something management actually needs to know.
 
