@@ -78,15 +78,13 @@ The mean ($322.26) sits noticeably above the median ($253.39) — a gap of $68.8
 
 Four visualizations were built to give management an at-a-glance picture of operations.
 
-### Scatter Plot — Total Bill vs. Quantity
-
-<img width="900" height="500" alt="scatter_total_bill_vs_quantity" src="https://github.com/user-attachments/assets/17e40cb4-0bc7-4f77-9924-16e2d357e657" />
-
-<img width="1024" height="538" alt="image" src="https://github.com/user-attachments/assets/33a4a626-2693-4a05-99fb-f2880c98356d" />
+### Scatter Plot — Sales vs. Quantity
 
 
+<img width="900" height="500" alt="image" src="https://github.com/user-attachments/assets/33a4a626-2693-4a05-99fb-f2880c98356d" />
 
-A positive linear relationship exists between quantity purchased and total bill (R² = 0.4957). Roughly **49.57%** of the variation in total bill can be explained by quantity alone — a moderate but meaningful correlation. The relationship is real, not random.
+
+A positive linear relationship exists between quantity purchased and sales (R² = 0.4957). Roughly **49.57%** of the variation in sales can be explained by quantity alone — a moderate but meaningful correlation. The relationship is real, not random.
 
 ---
 
