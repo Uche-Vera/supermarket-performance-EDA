@@ -134,10 +134,8 @@ Customer ratings (scale: 4–10) showed a relatively **uniform distribution** ac
 
 ### 🔍 Observation 2 — Ewallet Promotion Strategy
 
-<img width="900" height="500" alt="observation_2_ewallet" src="https://github.com/user-attachments/assets/c18f0935-31fd-4680-ac28-890c3800c939" />
 
-<img width="1024" height="541" alt="image" src="https://github.com/user-attachments/assets/e7d277ed-5af2-474c-b3ff-e96274c5f19b" />
-
+<img width="900" height="500" alt="observation_2_ewallet" src="https://github.com/user-attachments/assets/e7d277ed-5af2-474c-b3ff-e96274c5f19b" />
 
 
 **Giza should be the primary target for any Ewallet promotion.** It generated the highest total revenue ($107,993), the widest Ewallet transaction spread (SD gap of $97.27), and an estimated Ewallet revenue of ~$37,797 (35% × $107,993) — the highest across all branches. A focused promotion here reinforces existing high-value Ewallet behavior and delivers the greatest revenue impact per dollar of marketing spend.
