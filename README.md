@@ -8,7 +8,20 @@
 
 Worked as the **Lead Data Analyst** for a global supermarket chain to optimize operations across three major Egyptian branches **(Alexandria, Cairo, and Giza)** . Built a unified analytical workflow that transformed a chaotic, raw extract of **~1,000 transactions** for Quarter 1 of the year 2019 into structured, actionable business intelligence.
 
-The project spans five analytical stages: data cleaning, descriptive statistics, visual dashboarding, probability modeling, and hypothesis formulation. Every figure computed has a business question behind it; every chart answers something management actually needs to know.
+The project spans five distinct analytical stages :
+
+1. **Data Cleaning**  
+   *Filtering out the noise and preparing raw transactional data for analysis.*
+2. **Descriptive Statistics**  
+   *Summarizing baseline KPIs and operational performance across branches.*
+3. **Visual Dashboarding**  
+   *Transforming complex data points into intuitive, executive-facing charts.*
+4. **Probability Modeling**  
+   *Analyzing purchase patterns and predicting transactional likelihoods.*
+5. **Hypothesis Formulation**  
+   *Testing data-backed assumptions to drive strategic decision-making.*
+
+> 💡 Every figure computed has a business question behind it; every chart answers something management actually needs to know.
 
 ---
 
