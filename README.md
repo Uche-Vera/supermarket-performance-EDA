@@ -78,7 +78,7 @@ The mean ($322.26) sits noticeably above the median ($253.39) — a gap of $68.8
 
 Four visualizations were built to give management an at-a-glance picture of operations.
 
-### Scatter Plot — Sales vs. Quantity
+### Scatter Plot — Quantity vs. Sales
 
 
 <img width="900" height="500" alt="image" src="https://github.com/user-attachments/assets/33a4a626-2693-4a05-99fb-f2880c98356d" />
