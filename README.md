@@ -124,10 +124,8 @@ The near-parity of all three channels signals a diverse, digitally-engaged custo
 
 ### Histogram — Distribution of Customer Ratings
 
-<img width="900" height="500" alt="histogram_customer_rating" src="https://github.com/user-attachments/assets/68166cd5-8c68-4095-b308-840e0498af88" />
 
-
-<img width="1024" height="572" alt="image" src="https://github.com/user-attachments/assets/53b12083-b2de-43ec-ac6b-8e71268e1efb" />
+<img width="900" height="500" alt="histogram_customer_rating" src="https://github.com/user-attachments/assets/53b12083-b2de-43ec-ac6b-8e71268e1efb" />
 
 
 Customer ratings (scale: 4–10) showed a relatively **uniform distribution** across the range, with a slight spike at the [4, 4.5] bin (99 occurrences) and a dip at the upper end ([9.5, 10] = 68). There is no strong concentration of very high ratings — indicating consistent but unremarkable satisfaction across the customer base.
